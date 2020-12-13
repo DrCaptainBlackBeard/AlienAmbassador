@@ -1,0 +1,11 @@
+type of meal, food name, cost, calories
+
+breakfast, betol eggs & ham, 9.50, 900
+breakfast, giggeon grits, 4.50, 400
+breakfast, cheeri0s, 2.00, 200
+lunch, muck zahh, 4.20, 600
+lunch, sorbor soup, 5.50, 300
+lunch, helostar snout, 12.50, 1300
+dinner, skrimp sulk, 15.00, 1500
+dinner, ulznut spagoot, 18.00, 2000
+dinner, dejunti bowl, 13.50, 900

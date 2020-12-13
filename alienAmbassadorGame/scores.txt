@@ -1,0 +1,9 @@
+name, difficulty, number of days, number of interactions, $ left, final score
+
+Ambassador Klia, Normal, 1, 1, $90, 280
+Ambassador Billy, Normal, 1, 0, $20, 1200
+Ambassador Sal, Normal, 3, 19, $130, 799
+Ambassador Casey, Easy, 5, 28, $130, 799
+Ambassador Sal, Normal, 2, 7, $130, 799
+Ambassador Kl, Normal, 1, 0, $100, 0
+Ambassador no, Normal, 1, 0, $100, 0
